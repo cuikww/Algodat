@@ -42,5 +42,9 @@ public class MyNode1 {
     public Object getElemen(){
         return this.elemen;
     }
+
+    public char getData() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
  
